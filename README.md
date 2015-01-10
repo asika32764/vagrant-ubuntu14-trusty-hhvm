@@ -1,6 +1,6 @@
 # HHVM Vagrant box
 
-Ubuntu Precise box simply installing HHVM (nightly) via apt.
+Ubuntu Trusty box simply installing HHVM (standard) via apt.
 
 Find more details on the examples found in the [www](https://github.com/vicb/hhvm-vagrant/tree/master/www)
 folder by reading the associated SitePoint article "HHVM and Hack – Can We
@@ -100,9 +100,4 @@ $ vagrant destroy
 
 ## Credits
 
-contributors:
-- [donmccurdy](https://github.com/donmccurdy) has added the NGINX configuration
-
-I got some inspiration from:
-- https://github.com/adrienbrault/hhvm-vagrant
-- https://github.com/javer/hhvm-vagrant-vm
+This box is based on: https://github.com/vicb/hhvm-vagrant and still work in process.
