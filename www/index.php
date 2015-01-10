@@ -1,0 +1,6 @@
+<?hh
+
+echo 'Hack works !';
+
+
+
