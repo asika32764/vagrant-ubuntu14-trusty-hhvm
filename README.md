@@ -101,3 +101,5 @@ $ vagrant destroy
 ## Credits
 
 This box is based on: https://github.com/vicb/hhvm-vagrant and still work in process.
+
+I'll try to add an Apache version.
